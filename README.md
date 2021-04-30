@@ -1,4 +1,4 @@
-# Setup-WordPress-and-RDS-database-over-AWS
+# Setup-WordPress-with-RDS-database-at-the-backend-over-AWS
 ![image](https://user-images.githubusercontent.com/72133094/116683908-df057a00-a9cd-11eb-988b-785a8425ac85.png)
 
 ARTH Task 18
